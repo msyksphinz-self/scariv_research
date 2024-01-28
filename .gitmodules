@@ -1,0 +1,3 @@
+[submodule "rsd/rsd"]
+	path = rsd/rsd
+	url = https://github.com/rsd-devel/rsd.git
