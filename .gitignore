@@ -1,0 +1,8 @@
+*/*.log
+*/*.jou
+*/*synth.v
+*/*.rpt
+*/*.txt
+*/*.dcp
+*/*.xpr
+*/*.pb
